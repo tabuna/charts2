@@ -1,5 +1,7 @@
 # Charts2
 
+> MOVE TO https://github.com/orchidsoftware/charts
+
 **Charts that belong in your product.**
 
 Charts2 turns everyday product data into clear, responsive SVG charts. One
